@@ -1,5 +1,4 @@
 import sys
-from tkinter import font
 from pygame.locals import *
 import pygame as pg
 import random
